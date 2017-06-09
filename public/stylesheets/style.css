@@ -80,3 +80,10 @@ pre {
 	margin: 0;
 }
 
+.main {
+	width: 400px;
+	margin: 0 auto;
+}
+.main p{
+	float: right;
+}
